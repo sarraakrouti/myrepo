@@ -1,0 +1,11 @@
+#cadre{
+    border:greenyellow solid 3px;
+}
+h1{
+    color:blue;
+}
+h2{
+    color:rgb(rgb(176, 123, 123), rgb(148, 197, 148), rgb(114, 114, 178));
+    background-color: blueviolet;
+    width: 400px;
+}
